@@ -32,7 +32,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Linus Kohl** - [Website](https://munichresearch.com), [LinkedIn](https://www.linkedin.com/in/linuskohl), [Twitter](https://twitter.com/LinusKohl)
 * **Stefanie Schneider** - [Website](https://www.kunstgeschichte.uni-muenchen.de/personen/wiss_ma/schneider/index.html), [ORCID](https://orcid.org/0000-0003-4915-6949), [Twitter](https://twitter.com/_stschneider)
 * **Alexandra Reisser** - [LinkedIn](https://www.linkedin.com/in/alexandra-rei%C3%9Fer-379aa7180/), [Twitter](https://twitter.com/alexreisser)
-* **Osman Cakir** - [Twitter](https://twitter.com/osmancakirio)
+* **Osman Cakir** - [Website](https://osmancakir.io/), [Twitter](https://twitter.com/osmancakirio)
 
 Eine erweiterte Liste der Beitragenden zu diesem Projekt finden Sie unter [Beitragende](XX).
 
