@@ -1,0 +1,3 @@
+[submodule "Skripte/Chefkoch/chefkoch-api"]
+	path = Skripte/Chefkoch/chefkoch-api
+	url = https://github.com/florianschmidt1994/chefkoch-api
