@@ -29,10 +29,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## TEAM
 * **Julian Schulz** - [Website](https://www.hgw.geschichte.uni-muenchen.de/personen/mitarbeiter/schulz), [ORCID](https://orcid.org/0000-0003-4374-2680), [Twitter](https://twitter.com/SchJulzian)
-* **Linus Kohl** - [Website](https://munichresearch.com), [LinkedIn](https://www.linkedin.com/in/linuskohl), [Twitter](https://twitter.com/LinusKohl)
+* **Linus Kohl** - [Website](https://munichresearch.com), [ORCID](https://orcid.org/000-0003-3400-837X), [LinkedIn](https://www.linkedin.com/in/linuskohl), [Twitter](https://twitter.com/LinusKohl)
 * **Stefanie Schneider** - [Website](https://www.kunstgeschichte.uni-muenchen.de/personen/wiss_ma/schneider/index.html), [ORCID](https://orcid.org/0000-0003-4915-6949), [Twitter](https://twitter.com/_stschneider)
-* **Alexandra Reisser** - [LinkedIn](https://www.linkedin.com/in/alexandra-rei%C3%9Fer-379aa7180/), [Twitter](https://twitter.com/alexreisser)
-* **Osman Cakir** - [Website](https://osmancakir.io/), [Twitter](https://twitter.com/osmancakirio)
+* **Alexandra Reisser** - [ORCID](https://orcid.org/0000-0001-5560-1901), [LinkedIn](https://www.linkedin.com/in/alexandra-rei%C3%9Fer-379aa7180/), [Twitter](https://twitter.com/alexreisser)
+* **Osman Cakir** - [Website](https://osmancakir.io/), [ORCID](https://orcid.org/0000-0002-4828-0748), [Twitter](https://twitter.com/osmancakirio)
 
 Eine erweiterte Liste der Beitragenden zu diesem Projekt finden Sie unter [Beitragende](XX).
 
