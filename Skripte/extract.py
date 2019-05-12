@@ -152,7 +152,7 @@ def process(soup: BeautifulSoup) -> None:
         if price_entry is not None:
             price = clean_price(price_entry.text)
         # process quantities
-        quantity_entry = entry.find('Mengenangabe')
+        quantity_entry = entry.find('mengenangabe')
         if quantity_entry is not None:
             quantity = quantity_entry.text
         # add entries to dataframes
