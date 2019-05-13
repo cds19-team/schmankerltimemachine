@@ -1,3 +1,6 @@
 [submodule "Skripte/Chefkoch/chefkoch-api"]
 	path = Skripte/Chefkoch/chefkoch-api
 	url = https://github.com/florianschmidt1994/chefkoch-api
+[submodule "Daten/Abbildungen"]
+	path = Daten/Abbildungen
+	url = https://gitlab.com/cds19-team/daten.git
