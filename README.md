@@ -32,7 +32,7 @@ Im Ordner [Notebooks](Notebooks/) befinden sich einige Beispiel Notebooks zur Au
 
 ## Skripte
 ### Extrahieren der Daten aus der TEI Datei
-Für das Extrahieren der Daten aus der aus Transkribus extportierten TEI Datei (Koordinaten in Form von Bounding Boxes) liegt das folgende Python basierte Skript bereit. Es erzeugt CSV Dateien für die einzelnen Speisen, Einträge auf Karten, Besitzer, Adressen etc. 
+Für das Extrahieren der Daten aus der aus Transkribus extportierten TEI Datei (Koordinaten in Form von Bounding Boxes) liegt das folgende Python basierte Skript bereit. Es erzeugt CSV-Dateien für die einzelnen Speisen, Einträge auf Karten, Besitzer, Adressen etc. 
 
 	# python >= 3.6
     pip install --user -r requirements.txt
@@ -51,7 +51,8 @@ Sämtliche Abbildungen der Speisekarten sowie die im Projekt entstandenen Daten 
 <br />Für die Zitation des Projekts oder Teilen daraus, empfehlen wir Ihnen folgende Angabe:
 > Cakir, Osman/Kohl, Linus/Multerer, Clara/Reisser, Alexandra/Schneider, Stefanie/Schulz, Julian: Schmankerl Time Machine: Eine kulinarische Zeitreise durch die Speisekarten traditionsreicher Münchner Gaststätten. 18. Mai 2019. Open Data LMU: https://doi.org/10.5282/ubm/data.146.
 
-Eine Spezifikation der Daten im Metadatenschema [DataCite](XXX) steht zur Nachnutzung bereit.
+Eine Spezifikation der Daten im Metadatenschema [DataCite 4.2](https://schema.datacite.org/meta/kernel-4/) steht zur Nachnutzung bereit: [Codav DataCite](https://gitlab.com/cds19-team/cds19/blob/86a2b0944fa97049f0e887430688947279fe663c/codav_datacite.xml)<br />
+Die Spezifikation folgt der DataCite Best-Practice-Policy, die derzeit im Rahmen des Projekts [eHumanities - interdisziplinär](https://www.fdm-bayern.org/) ausgearbeitet wird.
 
 
 ## Mitwirken
