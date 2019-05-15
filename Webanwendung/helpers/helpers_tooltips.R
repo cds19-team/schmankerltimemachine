@@ -1,0 +1,6 @@
+header_github_button <- "Code auf GitLab ansehen"
+homepage_button <- "Zur Website der Lokalität gehen"
+automate_menu_button <- "Menü zusammenstellen lassen"
+leaflet_button <- "Lokalität in Karte auswählen"
+reload_button <- "Empfehlungen aktualisieren"
+recipe_button <- "Schmankerl nachkochen"
