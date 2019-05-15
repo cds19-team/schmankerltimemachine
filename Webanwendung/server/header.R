@@ -35,11 +35,8 @@ observeEvent(input$search_food, {
     fid <- str_split(search_food, ":")[[1]][2]
     eid <- filter(lines, fid == !!fid) %>%
       slice(1) %>% pull(eid)
-    print(eid)
-    
-    print(filter(img_metadata, Id == eid))
+
     name <- filter(img_metadata, Id == eid) %>% pull(Lokalname)
-    print(name)
     updateSelectInput(session, "select_restaurant", selected = name)
   }
 })
