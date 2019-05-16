@@ -266,7 +266,7 @@ text_paste <- function(x) {
 
 transform_cart <- function(text) {
   text <- str_replace(text, "cart_", "") %>% 
-    str_split("_") %>% pluck(1)
+    str_split("_") %>% pluck(1) %>% na_if("")
   
   names(text) <- c("id", "name", 
     "entry", "price", "recipe_id")
