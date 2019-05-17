@@ -1,4 +1,4 @@
-<p text-align="center">
+<p style="text-align: center;">
   <img alt="Schmankerl Time Machine Logo" src="Dokumentation/Bilder/logo_with_cdv.png" width="450" />
 </p>
 
@@ -8,7 +8,7 @@ Das Projekt ist im Rahmen des Kultur-Hackathons für offene Kulturdaten [Coding 
 
 ## Projekt
 
-> Kommt bei Ihnen zu Hause immer nur das Gleiche auf den Tisch? Sind Sie auf der Suche nach kulinarischer Vielfalt in Ihrem Alltag? Noch ist nicht Hopfen und Malz verloren!<br />Die „Schmankerl Time Machine“ lädt Sie zu einem lukullischen Streifzug durch die traditionsreiche Münchner Wirtshausgeschichte der vergangenen 150 Jahre ein. Verschaffen Sie sich einen Überblick über die Legenden am Münchner Gastrohimmel, über verglühte Sterne und nie verblühende Evergreens. Stellen Sie sich aus einem Portfolio von über 380 Speisekarten und den damit verlinkten Rezepturen Ihr unvergessliches Menü von Morgen zusammen. Wie wäre es mit einem Hummercocktail, gefolgt vom Hasen in der Terrine und Rehnüsschen, Fürst Pückler als krönendem Abschluss? Lassen Sie sich bei Ihrer Menükreation von den Vorschlägen anderer Nutzer inspirieren. Laden Sie die Speisekarte Ihres favorisierten Münchner Genusstempels hoch, um das Angebot noch zu erweitern.<br />Let’s Schmankerl!
+> Kommt bei Ihnen zu Hause immer nur das Gleiche auf den Tisch? Sind Sie auf der Suche nach kulinarischer Vielfalt in Ihrem Alltag? Noch ist nicht Hopfen und Malz verloren!<br /><br />Die „Schmankerl Time Machine“ lädt Sie zu einem lukullischen Streifzug durch die traditionsreiche Münchner Wirtshausgeschichte der vergangenen 150 Jahre ein. Verschaffen Sie sich einen Überblick über die Legenden am Münchner Gastrohimmel, über verglühte Sterne und nie verblühende Evergreens. Stellen Sie sich aus einem Portfolio von über 380 Speisekarten und den damit verlinkten Rezepturen Ihr unvergessliches Menü von Morgen zusammen. Wie wäre es mit einem Hummercocktail, gefolgt vom Hasen in der Terrine und Rehnüsschen, Fürst Pückler als krönendem Abschluss? Lassen Sie sich bei Ihrer Menükreation von den Vorschlägen anderer Nutzer inspirieren. Laden Sie die Speisekarte Ihres favorisierten Münchner Genusstempels hoch, um das Angebot noch zu erweitern.<br /><br />Let’s Schmankerl!
 
 Eine ausführliche Projektbeschreibung kann unter [PROJEKTBESCHREIBUNG.md](PROJEKTBESCHREIBUNG.md) eingesehen werden.
 
@@ -32,23 +32,23 @@ Ein Snapshot der extrahierten Daten ist im Ordner [Daten](Daten/) zu finden.
 
 Im Ordner [Notebooks](Notebooks/) befinden sich einige Beispiel-Notebooks zur Auswertung.
 
-<p float="left">
-  <img alt="Speisekarten Wordcloud" src="Dokumentation/Bilder/wordcloud.png" width="90%" />
+<p style="max-width: 850px;">
+  <img alt="Speisekarten Wordcloud" src="Dokumentation/Bilder/wordcloud.png" width="100%" />
 </p>
 
 ### Shiny Web-Applikation
 
 Im Ordner [Webanwendung](Webanwendung/) befindet sich der gesamte Code für die Shiny Web-Applikation, die unter https://www.dhvlab.gwi.uni-muenchen.de/schmankerltimemachine/ aktuell bei der [IT-Gruppe Geisteswissenschaften](https://www.itg.uni-muenchen.de/index.html) gehostet wird.
 
-<p float="left">
-  <img alt="Screenshot 1" src="Dokumentation/Bilder/screenshot-1.png" width="200" />
-  <img alt="Screenshot 2" src="Dokumentation/Bilder/screenshot-2.png" width="200" /> 
-  <img alt="Screenshot 3" src="Dokumentation/Bilder/screenshot-3.png" width="200" />
-  <img alt="Screenshot 4" src="Dokumentation/Bilder/screenshot-4.png" width="200" />
-  <img alt="Screenshot 5" src="Dokumentation/Bilder/screenshot-5.png" width="200" />
-  <img alt="Screenshot 6" src="Dokumentation/Bilder/screenshot-6.png" width="200" /> 
-  <img alt="Screenshot 7" src="Dokumentation/Bilder/screenshot-7.png" width="200" />
-  <img alt="Screenshot 8" src="Dokumentation/Bilder/screenshot-8.png" width="200" />
+<p float="left" style="max-width: 850px;">
+  <img alt="Screenshot 1" src="Dokumentation/Bilder/screenshot-1.png" width="20%" />
+  <img alt="Screenshot 2" src="Dokumentation/Bilder/screenshot-2.png" width="20%" /> 
+  <img alt="Screenshot 3" src="Dokumentation/Bilder/screenshot-3.png" width="20%" />
+  <img alt="Screenshot 4" src="Dokumentation/Bilder/screenshot-4.png" width="20%" />
+  <img alt="Screenshot 5" src="Dokumentation/Bilder/screenshot-5.png" width="20%" />
+  <img alt="Screenshot 6" src="Dokumentation/Bilder/screenshot-6.png" width="20%" /> 
+  <img alt="Screenshot 7" src="Dokumentation/Bilder/screenshot-7.png" width="20%" />
+  <img alt="Screenshot 8" src="Dokumentation/Bilder/screenshot-8.png" width="20%" />
 </p>
 
 ## Skripte
@@ -98,4 +98,4 @@ Wir freuen uns über Ihre Unterstützung bei der Annotation weiterer Speisekarte
 
 ## Danksagung
 
-Wir bedanken uns sehr herzlich bei den Organisatoren des diesjähigen Wettbewerbs und der Projektkoordination von [Coding Da Vinci](https://codingdavinci.de/about/index-de.html).
+Wir bedanken uns sehr herzlich bei den Organisatoren des diesjähigen Wettbewerbs und der Projektkoordination von [Coding da Vinci](https://codingdavinci.de/about/index-de.html).
