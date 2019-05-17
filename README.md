@@ -31,11 +31,11 @@ Ein Snapshot der extrahierten Daten ist im Ordner [Daten](Daten/) zu finden.
 
 ### Jupyter Notebooks
 
-Im Ordner [Notebooks](Notebooks/) befinden sich einige Beispiel-Notebooks zur Auswertung.
+Im Ordner [Notebooks](Notebooks/) befinden sich einige Beispiel-Notebooks zur Auswertung, die u. a. die zeitliche Verteilung der Speisekarten darstellen.
 
 <p style="max-width: 850px;">
-  <img alt="Speisekarten Wordcloud Schwein" src="Bilder/wordcloud_pig.png" width="66%" />
-  <img alt="Speisekarten Wordcloud Bier" src="Bilder/wordcloud_beer.png" width="22%" />
+  <img alt="Speisekarten Wordcloud Schwein" src="Bilder/wordcloud_pig.png" width="57%" />
+  <img alt="Speisekarten Wordcloud Bier" src="Bilder/wordcloud_beer.png" width="31%" />
 </p>
 
 ### Shiny Web-Applikation
