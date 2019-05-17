@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5282/ubm/data.146</identifier>
+	<titles>
+		<title xml:lang="de">Schmankerl Time Machine. Eine kulinarische Zeitreise durch die Speisekarten traditionsreicher Münchner Gaststätten</title>
+		<title xml:lang="en">Schmankerl Time Machine. A culinary time travel through Munich's traditional restaurants' menus</title>
+	</titles>
+	<creators>
+		<creator>
+			<creatorName>Coding da Vinci Süd 2019 Hackathon-Team der LMU</creatorName>
+			<affiliation>Ludwig-Maximilians-Universität München</affiliation>
+		</creator>
+	</creators>
+	<publisher>Universitätsbibliothek, Ludwig-Maximilians-Universität München</publisher>
+	<publicationYear>2019</publicationYear>
+	<resourceType resourceTypeGeneral="Collection">Interactive presentation of annotated menus</resourceType>
+	<subjects>
+		<subject xml:lang="en" schemeURI="http://dewey.info/" subjectScheme="dewey">005 Computer programming, programs and data</subject>
+		<subject xml:lang="en" schemeURI="http://dewey.info/" subjectScheme="dewey">642 Meals and table service</subject>
+		<subject xml:lang="en" schemeURI="http://dewey.info/" subjectScheme="dewey">647 Management of public households</subject>
+		<subject xml:lang="en" schemeURI="http://dewey.info/" subjectScheme="dewey">769 Prints</subject>
+		<subject xml:lang="en" schemeURI="http://dewey.info/" subjectScheme="dewey">943 Central Europe; Germany</subject>
+		<subject xml:lang="de" schemeURI="http://d-nb.info/gnd/" subjectScheme="GND" valueURI="http://d-nb.info/gnd/1162698691">Coding Da Vinci: Der Kultur-Hackathon</subject>
+		<subject xml:lang="de" schemeURI="http://d-nb.info/gnd/" subjectScheme="GND" valueURI="http://d-nb.info/gnd/4259231-8">Gastgewerbe</subject>
+		<subject xml:lang="de" schemeURI="http://d-nb.info/gnd/" subjectScheme="GND" valueURI="http://d-nb.info/gnd/4071600-4">Gaststätte</subject>
+		<subject xml:lang="de" schemeURI="http://d-nb.info/gnd/" subjectScheme="GND" valueURI="http://d-nb.info/gnd/4157183-6">Getränkekarte</subject>
+		<subject xml:lang="de" schemeURI="http://d-nb.info/gnd/" subjectScheme="GND" valueURI="http://d-nb.info/gnd/4114240-8">Kochbuch</subject>
+		<subject xml:lang="de" schemeURI="http://d-nb.info/gnd/" subjectScheme="GND" valueURI="http://d-nb.info/gnd/4038674-0">Menü</subject>
+		<subject xml:lang="de" schemeURI="http://d-nb.info/gnd/" subjectScheme="GND" valueURI="http://d-nb.info/gnd/4049594-2">Restaurant</subject>
+		<subject xml:lang="de" schemeURI="http://d-nb.info/gnd/" subjectScheme="GND" valueURI="http://d-nb.info/gnd/4056112-4">Speisekarte</subject>
+		<subject xml:lang="de" schemeURI="http://d-nb.info/gnd/" subjectScheme="GND" valueURI="http://d-nb.info/gnd/4190617-2">Zeitreise</subject>
+		<subject xml:lang="en" schemeURI="https://www.wikidata.org/wiki/" subjectScheme="Wikidata" valueURI="https://www.wikidata.org/wiki/Q51845238">Coding da Vinci</subject>
+		<subject xml:lang="en" schemeURI="https://www.wikidata.org/wiki/" subjectScheme="Wikidata" valueURI="https://www.wikidata.org/wiki/Q1495452">hospitality industry</subject>
+		<subject xml:lang="en" schemeURI="https://www.wikidata.org/wiki/" subjectScheme="Wikidata" valueURI="https://www.wikidata.org/wiki/Q11707">restaurant</subject>
+		<subject xml:lang="en" schemeURI="https://www.wikidata.org/wiki/" subjectScheme="Wikidata" valueURI="https://www.wikidata.org/wiki/Q658274">menu</subject>
+		<subject xml:lang="en" schemeURI="https://www.wikidata.org/wiki/" subjectScheme="Wikidata" valueURI="https://www.wikidata.org/wiki/Q605076">cookbook</subject>
+		<subject xml:lang="en" schemeURI="https://www.wikidata.org/wiki/" subjectScheme="Wikidata" valueURI="https://www.wikidata.org/wiki/Q182154">time travel</subject>
+		<subject xml:lang="en-us" schemeURI="http://www.geonames.org/" subjectScheme="geonames" valueURI="http://www.geonames.org/2867714">München</subject>
+	</subjects>
+	<contributors>
+		<contributor contributorType="ProjectMember">
+			<contributorName>Cakir, Osman</contributorName>
+			<givenName>Osman</givenName>
+			<familyName>Cakir</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/">0000-0002-4828-0748</nameIdentifier>
+			<affiliation>IT-Gruppe Geisteswissenschaften (ITG), Ludwig-Maximilians-Universität München</affiliation>
+		</contributor>
+		<contributor contributorType="ProjectMember">
+			<contributorName>Kohl, Linus</contributorName>
+			<givenName>Linus</givenName>
+			<familyName>Kohl</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/">000-0003-3400-837X</nameIdentifier>
+			<affiliation>MunichResearch</affiliation>
+		</contributor>
+		<contributor contributorType="ProjectMember">
+			<contributorName>Reisser, Alexandra</contributorName>
+			<givenName>Alexandra</givenName>
+			<familyName>Reisser</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/">0000-0001-5560-1901</nameIdentifier>
+			<affiliation>Institut für Kunstgeschichte, Ludwig-Maximilians-Universität München</affiliation>
+		</contributor>
+		<contributor contributorType="ProjectMember">
+			<contributorName>Schneider, Stefanie</contributorName>
+			<givenName>Stefanie</givenName>
+			<familyName>Schneider</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/">0000-0003-4915-6949</nameIdentifier>
+			<affiliation>Institut für Kunstgeschichte, Ludwig-Maximilians-Universität München</affiliation>
+		</contributor>
+		<contributor contributorType="ProjectMember">
+			<contributorName>Schulz, Julian</contributorName>
+			<givenName>Julian</givenName>
+			<familyName>Schulz</familyName>
+			<nameIdentifier nameIdentifierScheme="GND" schemeURI="http://d-nb.info/gnd/">1080206183</nameIdentifier>
+			<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/">0000-0003-4374-2680</nameIdentifier>
+			<affiliation>IT-Gruppe Geisteswissenschaften (ITG), Ludwig-Maximilians-Universität München</affiliation>
+		</contributor>
+	</contributors>
+	<dates>
+		<date dateType="Collected">2019-04-06</date>
+		<date dateType="Issued">2019-05-18</date>
+	</dates>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="URL" relationType="References">https://download.codingdavinci.de/index.php/s/c7hjYgGdprZ5Rpk</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="URL" relationType="References">https://download.codingdavinci.de/index.php/s/GTZZHDKqqpzKnsR</relatedIdentifier>
+	</relatedIdentifiers>
+	<descriptions>
+		<description descriptionType="Abstract" xml:lang="en">Always the same dishes on your dining table? Are you desperately looking for some inspiration for your culinary everyday life? So not all hope is lost yet!
+		"Schmankerl Time Machine" invites you to a culinary time travel through the traditional history of Munich-based restaurants during the past 150 years. First get an overview of Munich's gastronomic legends. Next compose your unforgettable menu from a portfolio consisting of more than 380 menus. Recipes are already linked to them. How about a lobster cocktail, followed by a rabbit in the terrine and some venison nuts, finaly crowned by Prince Pückler's ice cream variation? Let yourself be inspired by the suggestions of other users when creating your menu. Upload the menu of your favourite Munich restaurant to expand the data collection even further.
+		Let's Schmankerl!</description>
+		<description descriptionType="Abstract" xml:lang="de">Kommt bei Ihnen zu Hause immer nur das Gleiche auf den Tisch? Sind Sie auf der Suche nach kulinarischer Vielfalt in Ihrem Alltag? Noch ist nicht Hopfen und Malz verloren!
+		Die "Schmankerl Time Machine" lädt Sie zu einem lukullischen Streifzug durch die traditionsreiche Münchner Wirtshausgeschichte der vergangenen 150 Jahre ein. Verschaffen Sie sich einen Überblick über die Legenden am Münchner Gastrohimmel, über verglühte Sterne und nie verblühende Evergreens. Stellen Sie sich aus einem Portfolio von über 380 Speisekarten und den damit verlinkten Rezepturen Ihr unvergessliches Menü von Morgen zusammen. Wie wäre es mit einem Hummercocktail, gefolgt vom Hasen in der Terrine und Rehnüsschen, Fürst Pückler als krönendem Abschluss? Lassen Sie sich bei Ihrer Menükreation von den Vorschlägen anderer Nutzer inspirieren. Laden Sie die Speisekarte Ihres favorisierten Münchner Genusstempels hoch, um das Angebot noch zu erweitern.
+		Let’s Schmankerl!</description>
+		<description descriptionType="Methods" xml:lang="en">Distant reading/Text mining, Georeferencing/geospatial analysis, OCR, Software/App development, Statistical analysis</description>
+		<description descriptionType="TechnicalInfo" xml:lang="en">Python3, R, CSS-Framework Bootstraps, RStudio Shiny-Server, JupyterNotebooks, Leaflet.js</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>München</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>11.57549</pointLongitude>
+				<pointLatitude>48.13743</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+	<language>de</language>
+	<sizes>
+		<size>19398656B</size>
+	</sizes>
+	<formats>
+		<format>application/XML</format>
+		<format>image/png</format>
+		<format>ipynb</format>
+		<format>JPEG</format>
+		<format>py</format>
+		<format>text/csv</format>
+		<format>txt</format>
+	</formats>
+	<version>1.0</version>
+	<rightsList>
+    	<rights xml:lang="en-US" schemeURI="https://spdx.org/licenses/" rightsIdentifierScheme="SPDX" rightsIdentifier="CC-BY-SA-4.0" rightsURI="https://creativecommons.org/licenses/by-sa/4.0/legalcode" />
+    	<rights xml:lang="en-US" schemeURI="https://spdx.org/licenses/" rightsIdentifierScheme="SPDX" rightsIdentifier="GPL-3.0-only" rightsURI="https://opensource.org/licenses/GPL-3.0" />
+	</rightsList>
+</resource>
