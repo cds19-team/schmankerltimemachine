@@ -25,7 +25,7 @@ for (i in seq_along(ui_files)) {
 header <- dashboardHeader(
   title = a(
     img(src = sprintf("logo_%s_alt.png", url_name), title = tool_name),
-    href = sprintf("https://www.dhvlab.gwi.uni-muenchen.de/%s", url_name),
+    href = sprintf("https://www.dhvlab.gwi.uni-muenchen.de/%s/", url_name),
     title = tool_name, target = "_blank"
   ),
   
