@@ -1,5 +1,5 @@
-<p align="center">
-  <img alt="Schmankerl Time Machine Logo" src="Dokumentation/Bilder/logo_with_cdv.png" width="300" />
+<p text-align="center">
+  <img alt="Schmankerl Time Machine Logo" src="Dokumentation/Bilder/logo_with_cdv.png" width="450" />
 </p>
 
 # Schmankerl Time Machine
@@ -8,11 +8,7 @@ Das Projekt ist im Rahmen des Kultur-Hackathons für offene Kulturdaten [Coding 
 
 ## Projekt
 
-> Kommt bei Ihnen zu Hause immer nur das Gleiche auf den Tisch? Sind Sie auf der Suche nach kulinarischer Vielfalt in Ihrem Alltag? Noch ist nicht Hopfen und Malz verloren!
-
-> Die „Schmankerl Time Machine“ lädt Sie zu einem lukullischen Streifzug durch die traditionsreiche Münchner Wirtshausgeschichte der vergangenen 150 Jahre ein. Verschaffen Sie sich einen Überblick über die Legenden am Münchner Gastrohimmel, über verglühte Sterne und nie verblühende Evergreens. Stellen Sie sich aus einem Portfolio von über 380 Speisekarten und den damit verlinkten Rezepturen Ihr unvergessliches Menü von Morgen zusammen. Wie wäre es mit einem Hummercocktail, gefolgt vom Hasen in der Terrine und Rehnüsschen, Fürst Pückler als krönendem Abschluss? Lassen Sie sich bei Ihrer Menükreation von den Vorschlägen anderer Nutzer inspirieren. Laden Sie die Speisekarte Ihres favorisierten Münchner Genusstempels hoch, um das Angebot noch zu erweitern.
-
-> Let’s Schmankerl!
+> Kommt bei Ihnen zu Hause immer nur das Gleiche auf den Tisch? Sind Sie auf der Suche nach kulinarischer Vielfalt in Ihrem Alltag? Noch ist nicht Hopfen und Malz verloren!<br />Die „Schmankerl Time Machine“ lädt Sie zu einem lukullischen Streifzug durch die traditionsreiche Münchner Wirtshausgeschichte der vergangenen 150 Jahre ein. Verschaffen Sie sich einen Überblick über die Legenden am Münchner Gastrohimmel, über verglühte Sterne und nie verblühende Evergreens. Stellen Sie sich aus einem Portfolio von über 380 Speisekarten und den damit verlinkten Rezepturen Ihr unvergessliches Menü von Morgen zusammen. Wie wäre es mit einem Hummercocktail, gefolgt vom Hasen in der Terrine und Rehnüsschen, Fürst Pückler als krönendem Abschluss? Lassen Sie sich bei Ihrer Menükreation von den Vorschlägen anderer Nutzer inspirieren. Laden Sie die Speisekarte Ihres favorisierten Münchner Genusstempels hoch, um das Angebot noch zu erweitern.<br />Let’s Schmankerl!
 
 Eine ausführliche Projektbeschreibung kann unter [PROJEKTBESCHREIBUNG.md](PROJEKTBESCHREIBUNG.md) eingesehen werden.
 
@@ -35,24 +31,24 @@ Ein Snapshot der extrahierten Daten ist im Ordner [Daten](Daten/) zu finden.
 #### Jupyter Notebooks
 
 Im Ordner [Notebooks](Notebooks/) befinden sich einige Beispiel-Notebooks zur Auswertung.
-![Speisekarten Wordcloud](Dokumentation/Bilder/wordcloud.png)
+
+<p float="left">
+  <img alt="Speisekarten Wordcloud" src="Dokumentation/Bilder/wordcloud.png" width="90%" />
+</p>
 
 ### Shiny Web-Applikation
 
 Im Ordner [Webanwendung](Webanwendung/) befindet sich der gesamte Code für die Shiny Web-Applikation, die unter https://www.dhvlab.gwi.uni-muenchen.de/schmankerltimemachine/ aktuell bei der [IT-Gruppe Geisteswissenschaften](https://www.itg.uni-muenchen.de/index.html) gehostet wird.
 
 <p float="left">
-  <img alt="Screenshot 1" src="Dokumentation/Bilder/screenshot-1.png" width="150" />
-  <img alt="Screenshot 2" src="Dokumentation/Bilder/screenshot-2.png" width="150" /> 
-  <img alt="Screenshot 3" src="Dokumentation/Bilder/screenshot-3.png" width="150" />
-  <img alt="Screenshot 4" src="Dokumentation/Bilder/screenshot-4.png" width="150" />
-</p>
-
-<p float="left">
-  <img alt="Screenshot 5" src="Dokumentation/Bilder/screenshot-5.png" width="150" />
-  <img alt="Screenshot 6" src="Dokumentation/Bilder/screenshot-6.png" width="150" /> 
-  <img alt="Screenshot 7" src="Dokumentation/Bilder/screenshot-7.png" width="150" />
-  <img alt="Screenshot 8" src="Dokumentation/Bilder/screenshot-8.png" width="150" />
+  <img alt="Screenshot 1" src="Dokumentation/Bilder/screenshot-1.png" width="200" />
+  <img alt="Screenshot 2" src="Dokumentation/Bilder/screenshot-2.png" width="200" /> 
+  <img alt="Screenshot 3" src="Dokumentation/Bilder/screenshot-3.png" width="200" />
+  <img alt="Screenshot 4" src="Dokumentation/Bilder/screenshot-4.png" width="200" />
+  <img alt="Screenshot 5" src="Dokumentation/Bilder/screenshot-5.png" width="200" />
+  <img alt="Screenshot 6" src="Dokumentation/Bilder/screenshot-6.png" width="200" /> 
+  <img alt="Screenshot 7" src="Dokumentation/Bilder/screenshot-7.png" width="200" />
+  <img alt="Screenshot 8" src="Dokumentation/Bilder/screenshot-8.png" width="200" />
 </p>
 
 ## Skripte
@@ -68,8 +64,8 @@ Für das Extrahieren der Daten aus der aus Transkribus exportierten TEI-Datei (K
 ## Werkzeuge
 
 * [Transkribus](https://transkribus.eu/Transkribus/): *OCR*-Erfassung der Speisekarten und Werkzeug für die Annotation der Speisen und Getränke.
-* [RStudio Shiny-Server](https://www.rstudio.com/products/shiny/shiny-server): Plattform für die Web-Applikation.
-* [Jupyter Notebooks](https://jupyter.org/): Funktionen, die die Daten importieren, bereinigen und einige exemplarische Statistiken enthalten.
+* [RStudio Shiny-Server](https://www.rstudio.com/products/shiny/shiny-server): Plattform für die Web-Applikation, die auf der Open-Source-Umgebung R basiert.
+* [Jupyter Notebooks](https://jupyter.org/): Python-Funktionen, die die Daten importieren, bereinigen und einige exemplarische Statistiken enthalten.
 * [Leaflet](https://leafletjs.com/): JavaScript-Bibliothek für die Darstellung der interaktiven Karte(n) in der Web-Applikation.
 
 ## Zitation und Nachnutzung
