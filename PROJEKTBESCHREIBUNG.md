@@ -18,7 +18,7 @@ Neben diesem spielerischen Zugang zu den Speisekarten und den darin verzeichnete
 * In welchen Stadtvierteln finden wir ein besonders großes Angebot an Gasthäusern, aber wie viele davon bestehen noch heute?
 * Wie verändern sich im Laufe der Zeit die Adjektive, mit denen die Speisen angepriesen werden? Ab wann finden sich Zusätze wie „leicht“, also Hinweise auf ein sich veränderndes Ernährungsbewusstsein?
 
-Dies sind nur wenige Beispiele, die zeigen, wie vielfältig sich die Beschäftigung mit den hier erstmals dargebotenen Münchner Speisekarten gestalten kann. Um hierfür einen möglichst niederschwelligen Einstieg zu gewährleisten, werden einige [Jupyter Notebooks](https://jupyter.org/) in Python 3 zur Verfügung gestellt, die die Daten importieren, bereinigen und bereits einige exemplarische Statistiken beinhalten. Hierfür werden gängige Bibliotheken im Bereich *Data Science* verwendet ([pandas](https://pandas.pydata.org/), [Numpy](https://www.numpy.org/), [matplotlib](https://matplotlib.org/) et al.).
+Dies sind nur wenige Beispiele, die zeigen, wie vielfältig sich die Beschäftigung mit den hier erstmals dargebotenen Münchner Speisekarten gestalten kann. Um hierfür einen möglichst niederschwelligen Einstieg zu gewährleisten, werden einige [Jupyter Notebooks](https://jupyter.org/) in Python 3 zur Verfügung gestellt, die die Daten importieren, bereinigen und bereits einige exemplarische Statistiken beinhalten. Hierfür werden gängige Bibliotheken im Bereich *Data Science* verwendet ([pandas](https://pandas.pydata.org/), [NumPy](https://www.numpy.org/), [matplotlib](https://matplotlib.org/) et al.).
 
 ## Datengrundlage und künftige Entwicklungsmöglichkeiten
 

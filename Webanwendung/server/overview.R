@@ -804,6 +804,8 @@ output$automate_menu_text <- renderUI({
     if (nrow(ids) > 0) {
       ids <- sample_n(ids, 1) %>% 
         pull(ids) %>% split_ids()
+    } else {
+      ids <- character(0)
     }
   } else {
     ids <- sample_n(text, nrow(text)) %>%

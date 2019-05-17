@@ -6,7 +6,8 @@ search_choices <- filter(texts, !is.na(id)) %>%
   summarise_all(
     list(~paste(na.omit(.), collapse = " "))
   ) %>%
-  sample_n(nrow(.))
+  sample_n(nrow(.)) %>%
+  distinct(entry, .keep_all = TRUE)
 
 search_choices <- setNames(
   search_choices$id,
