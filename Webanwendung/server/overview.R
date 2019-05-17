@@ -297,7 +297,7 @@ get_overlay <- function(id, width, height) {
     "function(el, x) {
       var map = this;
 
-      var url = '%s/images/large/%s.jpg',
+      var url = '%s/images/small/%s.jpg',
           width = %s, height = %s;
 
       var south_west = map.unproject([0, height], map.getMaxZoom() - 1);
