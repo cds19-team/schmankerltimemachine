@@ -1,5 +1,6 @@
 <p style="text-align: center;">
-  <img alt="Schmankerl Time Machine Logo" src="Dokumentation/Bilder/logo_with_cdv.png" width="450" />
+  <img src="Dokumentation/Bilder/empty.png" width="25%" />
+  <img alt="Schmankerl Time Machine Logo" src="Dokumentation/Bilder/logo_with_cdv.png" width="50%" />
 </p>
 
 # Schmankerl Time Machine
@@ -33,7 +34,7 @@ Ein Snapshot der extrahierten Daten ist im Ordner [Daten](Daten/) zu finden.
 Im Ordner [Notebooks](Notebooks/) befinden sich einige Beispiel-Notebooks zur Auswertung.
 
 <p style="max-width: 850px;">
-  <img alt="Speisekarten Wordcloud" src="Dokumentation/Bilder/wordcloud.png" width="100%" />
+  <img alt="Speisekarten Wordcloud" src="Dokumentation/Bilder/wordcloud.png" width="88%" />
 </p>
 
 ### Shiny Web-Applikation
@@ -41,14 +42,14 @@ Im Ordner [Notebooks](Notebooks/) befinden sich einige Beispiel-Notebooks zur Au
 Im Ordner [Webanwendung](Webanwendung/) befindet sich der gesamte Code für die Shiny Web-Applikation, die unter https://www.dhvlab.gwi.uni-muenchen.de/schmankerltimemachine/ aktuell bei der [IT-Gruppe Geisteswissenschaften](https://www.itg.uni-muenchen.de/index.html) gehostet wird.
 
 <p float="left" style="max-width: 850px;">
-  <img alt="Screenshot 1" src="Dokumentation/Bilder/screenshot-1.png" width="20%" />
-  <img alt="Screenshot 2" src="Dokumentation/Bilder/screenshot-2.png" width="20%" /> 
-  <img alt="Screenshot 3" src="Dokumentation/Bilder/screenshot-3.png" width="20%" />
-  <img alt="Screenshot 4" src="Dokumentation/Bilder/screenshot-4.png" width="20%" />
-  <img alt="Screenshot 5" src="Dokumentation/Bilder/screenshot-5.png" width="20%" />
-  <img alt="Screenshot 6" src="Dokumentation/Bilder/screenshot-6.png" width="20%" /> 
-  <img alt="Screenshot 7" src="Dokumentation/Bilder/screenshot-7.png" width="20%" />
-  <img alt="Screenshot 8" src="Dokumentation/Bilder/screenshot-8.png" width="20%" />
+  <img alt="Screenshot 1" src="Dokumentation/Bilder/screenshot-1.png" width="22%" />
+  <img alt="Screenshot 2" src="Dokumentation/Bilder/screenshot-2.png" width="22%" /> 
+  <img alt="Screenshot 3" src="Dokumentation/Bilder/screenshot-3.png" width="22%" />
+  <img alt="Screenshot 4" src="Dokumentation/Bilder/screenshot-4.png" width="22%" />
+  <img alt="Screenshot 5" src="Dokumentation/Bilder/screenshot-5.png" width="22%" />
+  <img alt="Screenshot 6" src="Dokumentation/Bilder/screenshot-6.png" width="22%" /> 
+  <img alt="Screenshot 7" src="Dokumentation/Bilder/screenshot-7.png" width="22%" />
+  <img alt="Screenshot 8" src="Dokumentation/Bilder/screenshot-8.png" width="22%" />
 </p>
 
 ## Skripte
