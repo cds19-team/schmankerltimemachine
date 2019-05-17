@@ -7,13 +7,13 @@
 
 Das Projekt ist im Rahmen des Kultur-Hackathons für offene Kulturdaten [Coding da Vinci Süd 2019](https://codingdavinci.de/events/sued/) entstanden. 
 
-## Projekt
+## Projektbeschreibung
 
 > Kommt bei Ihnen zu Hause immer nur das Gleiche auf den Tisch? Sind Sie auf der Suche nach kulinarischer Vielfalt in Ihrem Alltag? Noch ist nicht Hopfen und Malz verloren!<br /><br />Die „Schmankerl Time Machine“ lädt Sie zu einem lukullischen Streifzug durch die traditionsreiche Münchner Wirtshausgeschichte der vergangenen 150 Jahre ein. Verschaffen Sie sich einen Überblick über die Legenden am Münchner Gastrohimmel, über verglühte Sterne und nie verblühende Evergreens. Stellen Sie sich aus einem Portfolio von über 380 Speisekarten und den damit verlinkten Rezepturen Ihr unvergessliches Menü von Morgen zusammen. Wie wäre es mit einem Hummercocktail, gefolgt vom Hasen in der Terrine und Rehnüsschen, Fürst Pückler als krönendem Abschluss? Lassen Sie sich bei Ihrer Menükreation von den Vorschlägen anderer Nutzer inspirieren. Laden Sie die Speisekarte Ihres favorisierten Münchner Genusstempels hoch, um das Angebot noch zu erweitern.<br /><br />Let’s Schmankerl!
 
 Eine ausführliche Projektbeschreibung kann unter [PROJEKTBESCHREIBUNG.md](PROJEKTBESCHREIBUNG.md) eingesehen werden.
 
-### Daten
+## Daten
 
 Ein Snapshot der extrahierten Daten ist im Ordner [Daten](Daten/) zu finden.
 
@@ -27,9 +27,9 @@ Ein Snapshot der extrahierten Daten ist im Ordner [Daten](Daten/) zu finden.
 * **restaurants** Metadaten zu den Lokalitäten.
 * **zones** Einträge auf Speisekarten und deren Koordinaten (*Bounding Boxes*).
 
-### Realisierung
+## Realisierung
 
-#### Jupyter Notebooks
+### Jupyter Notebooks
 
 Im Ordner [Notebooks](Notebooks/) befinden sich einige Beispiel-Notebooks zur Auswertung.
 
@@ -99,4 +99,4 @@ Wir freuen uns über Ihre Unterstützung bei der Annotation weiterer Speisekarte
 
 ## Danksagung
 
-Wir bedanken uns sehr herzlich bei den Organisatoren des diesjähigen Wettbewerbs und der Projektkoordination von [Coding da Vinci](https://codingdavinci.de/about/index-de.html).
+Wir bedanken uns sehr herzlich bei den Organisatoren des diesjährigen Wettbewerbs und der Projektkoordination von [Coding da Vinci](https://codingdavinci.de/about/index-de.html).
